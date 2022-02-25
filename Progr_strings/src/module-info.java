@@ -1,0 +1,2 @@
+module Progr_strings {
+}
